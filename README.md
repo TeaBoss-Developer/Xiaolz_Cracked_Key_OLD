@@ -14,3 +14,5 @@ other:Python自带<br/>
 鸣谢:<br/>
 小波[提供样本]<br/>
 Flask支持库:提供WebAPI<br/>
+许可协议:
+本源码许可协议为Apache License
