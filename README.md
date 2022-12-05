@@ -1,1 +1,15 @@
-# Xiaolz_Cracked_Key
+# KeyWord:Xiaolz,小栗子,单Q,单Q破解,小栗子5.2.1,小栗子开心版
+本文档是由TeaBoss_Developer开发和编写
+编写原因:
+因看到之前有人在Discord上卖激活码,然后有位人想让我算算法.
+我就在6分钟以内想出算法并写出初版算法和源码
+本源码可能会用到以下PIP支持库:
+1.flask
+2.requests
+other:Python自带
+本源码意义何在:
+我看到咸鱼以及多个平台,付费传播破解码.
+并且一部分是我的文档而出,因此我开源在此处.
+鸣谢:
+小波[提供样本]
+Flask支持库:提供WebAPI
